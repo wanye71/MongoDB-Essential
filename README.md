@@ -11,10 +11,10 @@
 ```
 ### Commands
 ***Sow default databases***
-```shell
+```console
 show databases
 ```
 ***Sore inquiry data***
-```shell
+```console
 db.test.insertOne({"Hello": "World"})
 ```
