@@ -6,7 +6,7 @@
 ## Table of Contents
 1. [Mongod Commands](#mongod-commands)
 2. [Replica Set](#replica-set)
-    i. [Connect to Instances](#connect-to-instances)
+3. [Connect to Instances](#connect-to-instances)
 
 ### Mongod Commands
 ***Start MongoDB***
