@@ -4,7 +4,7 @@
 
 # MongoDB Essential
 ## Table of Contents
-### Commands
+### Mongod Commands
 ***Start MongoDB***
 ```console
 mongodb --dbpath mongod_only
