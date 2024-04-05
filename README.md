@@ -4,10 +4,12 @@
 
 # MongoDB-Essential
 ## Start MongoDB
-```mongodb --dbpath mongod_only
+```console
+mongodb --dbpath mongod_only
 ```
 ## Open MongoDB shell
-```mongosh
+```console
+mongosh
 ```
 ### Commands
 ***Sow default databases***
