@@ -2,12 +2,15 @@
 2. git fetch
 3. git pull origin main (remote branch)
 
-# MongoDB-Essential
-## Commands
-***Start MongoDB***
+# MongoDB Essential
+## Table of Contents
+### Commands
+<details>
+<section>***Start MongoDB***</section>
 ```console
 mongodb --dbpath mongod_only
 ```
+</details>
 ***Open MongoDB shell***
 ```console
 mongosh
