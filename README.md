@@ -5,12 +5,10 @@
 # MongoDB Essential
 ## Table of Contents
 ### Commands
-<details>
-<summary>Start MongoDB</summary>
+***Start MongoDB***
 ```console
 mongodb --dbpath mongod_only
 ```
-</details>
 ***Open MongoDB shell***
 ```console
 mongosh
