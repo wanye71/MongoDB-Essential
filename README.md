@@ -4,10 +4,13 @@
 
 # MongoDB Essential
 ## Table of Contents
+1. [Mongod Commands](#mongod-commands)
+2. [Replica Set](#replica-set)
+
 ### Mongod Commands
 ***Start MongoDB***
 ```console
-mongodb --dbpath mongod_only
+mongod --dbpath mongod_only
 ```
 ***Open MongoDB shell***
 ```console
@@ -21,3 +24,4 @@ show databases
 ```console
 db.test.insertOne({"Hello": "World"})
 ```
+### Replica Set
