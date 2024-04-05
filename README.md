@@ -6,6 +6,7 @@
 ## Table of Contents
 1. [Mongod Commands](#mongod-commands)
 2. [Replica Set](#replica-set)
+    i. [Connect to Instances](#connect-to-instances)
 
 ### Mongod Commands
 ***Start MongoDB***
@@ -48,4 +49,9 @@ mongod --replSet myReplSet --dbpath ./m1/db --logpath ./m1/mongodb.log --port 27
 mongod --replSet myReplSet --dbpath ./m2/db --logpath ./m2/mongodb.log --port 27018 --keyFile ./keyfile
 
 mongod --replSet myReplSet --dbpath ./m3/db --logpath ./m3/mongodb.log --port 27019 --keyFile ./keyfile
+```
+### Connect to Instances
+*MongoDB shell*
+```console
+mongosh
 ```
