@@ -16,7 +16,7 @@ mongosh
 ```console
 show databases
 ```
-***Sore inquiry data***
+***Store inquiry data***
 ```console
 db.test.insertOne({"Hello": "World"})
 ```
