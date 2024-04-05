@@ -1,0 +1,10 @@
+{"t":{"$date":"2024-04-05T07:44:26.223-05:00"},"s":"I",  "c":"CONTROL",  "id":23285,   "ctx":"thread1","msg":"Automatically disabling TLS 1.0, to force-enable TLS 1.0 specify --sslDisabledProtocols 'none'"}
+{"t":{"$date":"2024-04-05T07:44:26.224-05:00"},"s":"I",  "c":"NETWORK",  "id":4915701, "ctx":"thread1","msg":"Initialized wire specification","attr":{"spec":{"incomingExternalClient":{"minWireVersion":0,"maxWireVersion":21},"incomingInternalClient":{"minWireVersion":0,"maxWireVersion":21},"outgoing":{"minWireVersion":6,"maxWireVersion":21},"isInternalClient":true}}}
+{"t":{"$date":"2024-04-05T07:44:27.639-05:00"},"s":"I",  "c":"NETWORK",  "id":4648602, "ctx":"thread1","msg":"Implicit TCP FastOpen in use."}
+{"t":{"$date":"2024-04-05T07:44:27.641-05:00"},"s":"I",  "c":"ACCESS",   "id":20254,   "ctx":"thread1","msg":"Read security file failed","attr":{"error":{"code":30,"codeName":"InvalidPath","errmsg":"Error reading file C:/Users/wayne/Desktop/mongodbessentials/replica_set_cmdline/./keyfile[D: No such file or directory"}}}
+{"t":{"$date":"2024-04-05T07:44:27.653-05:00"},"s":"I",  "c":"ASIO",     "id":6529201, "ctx":"thread1","msg":"Network interface redundant shutdown","attr":{"state":"Stopped"}}
+{"t":{"$date":"2024-04-05T07:44:27.653-05:00"},"s":"I",  "c":"ASIO",     "id":22582,   "ctx":"thread1","msg":"Killing all outstanding egress activity."}
+{"t":{"$date":"2024-04-05T07:44:27.653-05:00"},"s":"I",  "c":"SHARDING", "id":5847201, "ctx":"thread1","msg":"Balancer command scheduler stop requested"}
+{"t":{"$date":"2024-04-05T07:44:27.653-05:00"},"s":"I",  "c":"ASIO",     "id":6529201, "ctx":"thread1","msg":"Network interface redundant shutdown","attr":{"state":"Stopped"}}
+{"t":{"$date":"2024-04-05T07:44:27.653-05:00"},"s":"I",  "c":"ASIO",     "id":22582,   "ctx":"thread1","msg":"Killing all outstanding egress activity."}
+{"t":{"$date":"2024-04-05T07:44:27.653-05:00"},"s":"F",  "c":"CONTROL",  "id":20575,   "ctx":"thread1","msg":"Error creating service context","attr":{"error":"Location5579201: Unable to acquire security key[s]"}}
