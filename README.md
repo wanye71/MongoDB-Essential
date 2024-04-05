@@ -3,15 +3,15 @@
 3. git pull origin main (remote branch)
 
 # MongoDB-Essential
-## Start MongoDB
+## Commands
+***Start MongoDB***
 ```console
 mongodb --dbpath mongod_only
 ```
-## Open MongoDB shell
+***Open MongoDB shell***
 ```console
 mongosh
 ```
-### Commands
 ***Sow default databases***
 ```console
 show databases
