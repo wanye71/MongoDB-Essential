@@ -6,7 +6,7 @@
 ## Table of Contents
 ### Commands
 <details>
-<section>***Start MongoDB***</section>
+<summary>***Start MongoDB***</summary>
 ```console
 mongodb --dbpath mongod_only
 ```
